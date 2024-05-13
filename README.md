@@ -1,2 +1,5 @@
-# partable
-Partable plugin for CakePHP: Create partitions, add custom triggers, and more.
+# Partable Plugin
+
+This plugin allows you to manage Postgres partitions and triggers in a more convenient way.
+
+## Installation
